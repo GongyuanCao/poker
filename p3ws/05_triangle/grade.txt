@@ -1,0 +1,13 @@
+Grading at 12/08/2020:19:40:51.011356
+For commit ID 9268dc04ae6f5d55e5e902a82bd68990d7bf5b54
+Your file matched the expected output
+Testing printTriangle with 0:
+Your file matched the expected output
+Testing printTriangle with 1:
+Your file matched the expected output
+Testing printTriangle with 42:
+Your file matched the expected output
+Testing printTriangle with 420:
+Your file matched the expected output
+
+Overall Grade: PASSED

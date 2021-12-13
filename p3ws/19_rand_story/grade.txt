@@ -1,0 +1,138 @@
+Grading at 12/17/2020:18:16:00.343827
+For commit ID 8872837f3b36370150d613d24bbe134e255b8113
+[32msuccessful import randomStory from randomstory[0m
+**************************************************
+test original story
+['_animal', '_0', '_place', '_0', '_2', '_food', '_0', '_time', '_place', '_8', '_0', '_magiccreature', '_thing', '_greeting', '_said', '_11', '_8', '_11', '_12', '_0', '_2', '_5', '_2', '_5', '_0', '_said', '_11', '_14', '_12', '_12', '_said', '_0', '_12', '_11', '_12', '_0', '_5', '_0', '_11', '_8']
+defaultdict(<class 'list'>, {'_animal': ['chicken'], '_place': ['pond', 'dive bar'], '_food': ['falafel'], '_time': ['a while'], '_magiccreature': ['fairy'], '_thing': ['umbrella'], '_greeting': ['Whhhasssupp'], '_said': ['said', 'roared', 'cackled']})
+{'_0': 'chicken', '_2': 'pond', '_5': 'falafel', '_7': 'a while', '_8': 'dive bar', '_11': 'fairy', '_12': 'umbrella', '_13': 'Whhhasssupp', '_14': 'said', '_25': 'roared', '_30': 'cackled'}
+['Once upon a time there was a ', '_animal', '.  The ', '_0', ' lived in a very scary ', '_place', '.']
+['One day, the ', '_0', ' left his ', '_2', ' and went in search of a ', '_food', '.  ']
+['The ', '_0', ' wandered for ', '_time', ' and finally reached a ', '_place', '.']
+['In that ', '_8', ' the ', '_0', ' encountered a ', '_magiccreature', ' with a ', '_thing', '.']
+['', '_greeting', '! ', '_said', ' the ', '_11', '.  What brings you to my ', '_8', ', the ', '_11', ' asked']
+['waving his ', '_12', ' towards the ', '_0', '.']
+['I left my ', '_2', ' in search of a ', '_5', ' because I was hungry and my ', '_2', ' is']
+['quite a scary place.  Do you have any ', '_5', ' here the ', '_0', ' ', '_said', '?']
+['Why it just so happens that I do have one the ', '_11', ' ', '_14', '.  However,']
+['I will only share it with you if you help me fix my ', '_12', ', which']
+['is not quite working right at the moment.   Oh ', '_12', ' repair ', '_said']
+['the ', '_0', '?  Why that is my area of expertise.  Let me take a look']
+['at your ', '_12', '.  The ', '_11', ' handed his ', '_12', ' to the ', '_0', ', who promptly']
+['fixed it, and was rewarded with a ', '_5', '.   The ', '_0', ' and ', '_11', ' became']
+['best friends and lived happily ever after in the ', '_8', '.']
+['The end.']
+[32mpassed this testcase[0m
+**************************************************
+randomize digits in random story
+Here is our new story template:
+Once upon a time there was a _thing.  The _0 lived in a very scary _thing.
+One day, the _0 left his _2 and went in search of a _said.
+One day, the _0 left his _0 and went in search of a _said.
+The _0 wandered for _greeting and finally reached a _greeting.
+In that _2 the _0 encountered a _greeting with a _greeting.
+In that _2 the _0 encountered a _greeting with a _greeting.
+_animal! _animal the _6.  What brings you to my _8, the _6 asked
+_animal! _animal the _6.  What brings you to my _3, the _6 asked
+_animal! _animal the _6.  What brings you to my _3, the _6 asked
+waving his _5 towards the _0.
+waving his _5 towards the _0.
+I left my _2 in search of a _5 because I was hungry and my _2 is
+I left my _2 in search of a _5 because I was hungry and my _2 is
+I left my _2 in search of a _5 because I was hungry and my _2 is
+quite a scary place.  Do you have any _2 here the _0 _food?
+quite a scary place.  Do you have any _2 here the _0 _food?
+Why it just so happens that I do have one the _10 _14.  However,
+Why it just so happens that I do have one the _10 _7.  However,
+I will only share it with you if you help me fix my _12, which
+is not quite working right at the moment.   Oh _0 repair _magiccreature
+the _0?  Why that is my area of expertise.  Let me take a look
+at your _8.  The _11 handed his _8 to the _0, who promptly
+at your _8.  The _8 handed his _8 to the _0, who promptly
+at your _8.  The _8 handed his _8 to the _0, who promptly
+at your _8.  The _8 handed his _8 to the _0, who promptly
+fixed it, and was rewarded with a _2.   The _0 and _11 became
+fixed it, and was rewarded with a _2.   The _0 and _11 became
+fixed it, and was rewarded with a _2.   The _0 and _0 became
+best friends and lived happily ever after in the _0.
+['_thing', '_0', '_thing', '_0', '_2', '_said', '_0', '_0', '_said', '_0', '_greeting', '_greeting', '_2', '_0', '_greeting', '_greeting', '_2', '_0', '_greeting', '_greeting', '_animal', '_animal', '_6', '_8', '_6', '_animal', '_animal', '_6', '_3', '_6', '_animal', '_animal', '_6', '_3', '_6', '_5', '_0', '_5', '_0', '_2', '_5', '_2', '_2', '_5', '_2', '_2', '_5', '_2', '_2', '_0', '_food', '_2', '_0', '_food', '_10', '_14', '_10', '_7', '_12', '_0', '_magiccreature', '_0', '_8', '_11', '_8', '_0', '_8', '_8', '_8', '_0', '_8', '_8', '_8', '_0', '_8', '_8', '_8', '_0', '_2', '_0', '_11', '_2', '_0', '_11', '_2', '_0', '_0', '_0']
+defaultdict(<class 'list'>, {'_thing': ['umbrella', 'cellphone'], '_said': ['squeaked', 'exclaimed'], '_greeting': ['Whhhasssupp', 'Hello', 'Hello', 'Well met', 'Whhhasssupp', 'Whhhasssupp'], '_animal': ['fruit fly', 'chicken', 'mouse', 'bat', 'dragon', 'cat'], '_food': ['cupcake', 'roast duck'], '_magiccreature': ['hobbit']})
+{'_0': 'umbrella', '_2': 'cellphone', '_5': 'squeaked', '_8': 'exclaimed', '_10': 'Whhhasssupp', '_11': 'Hello', '_14': 'Hello', '_15': 'Well met', '_18': 'Whhhasssupp', '_19': 'Whhhasssupp', '_20': 'fruit fly', '_21': 'chicken', '_25': 'mouse', '_26': 'bat', '_30': 'dragon', '_31': 'cat', '_50': 'cupcake', '_53': 'roast duck', '_60': 'hobbit', '_6': 'umbrella', '_3': 'umbrella', '_7': 'umbrella', '_12': 'cellphone'}
+['Once upon a time there was a ', '_thing', '.  The ', '_0', ' lived in a very scary ', '_thing', '.']
+['One day, the ', '_0', ' left his ', '_2', ' and went in search of a ', '_said', '.']
+['One day, the ', '_0', ' left his ', '_0', ' and went in search of a ', '_said', '.']
+['The ', '_0', ' wandered for ', '_greeting', ' and finally reached a ', '_greeting', '.']
+['In that ', '_2', ' the ', '_0', ' encountered a ', '_greeting', ' with a ', '_greeting', '.']
+['In that ', '_2', ' the ', '_0', ' encountered a ', '_greeting', ' with a ', '_greeting', '.']
+['', '_animal', '! ', '_animal', ' the ', '_6', '.  What brings you to my ', '_8', ', the ', '_6', ' asked']
+['', '_animal', '! ', '_animal', ' the ', '_6', '.  What brings you to my ', '_3', ', the ', '_6', ' asked']
+['', '_animal', '! ', '_animal', ' the ', '_6', '.  What brings you to my ', '_3', ', the ', '_6', ' asked']
+['waving his ', '_5', ' towards the ', '_0', '.']
+['waving his ', '_5', ' towards the ', '_0', '.']
+['I left my ', '_2', ' in search of a ', '_5', ' because I was hungry and my ', '_2', ' is']
+['I left my ', '_2', ' in search of a ', '_5', ' because I was hungry and my ', '_2', ' is']
+['I left my ', '_2', ' in search of a ', '_5', ' because I was hungry and my ', '_2', ' is']
+['quite a scary place.  Do you have any ', '_2', ' here the ', '_0', ' ', '_food', '?']
+['quite a scary place.  Do you have any ', '_2', ' here the ', '_0', ' ', '_food', '?']
+['Why it just so happens that I do have one the ', '_10', ' ', '_14', '.  However,']
+['Why it just so happens that I do have one the ', '_10', ' ', '_7', '.  However,']
+['I will only share it with you if you help me fix my ', '_12', ', which']
+['is not quite working right at the moment.   Oh ', '_0', ' repair ', '_magiccreature']
+['the ', '_0', '?  Why that is my area of expertise.  Let me take a look']
+['at your ', '_8', '.  The ', '_11', ' handed his ', '_8', ' to the ', '_0', ', who promptly']
+['at your ', '_8', '.  The ', '_8', ' handed his ', '_8', ' to the ', '_0', ', who promptly']
+['at your ', '_8', '.  The ', '_8', ' handed his ', '_8', ' to the ', '_0', ', who promptly']
+['at your ', '_8', '.  The ', '_8', ' handed his ', '_8', ' to the ', '_0', ', who promptly']
+['fixed it, and was rewarded with a ', '_2', '.   The ', '_0', ' and ', '_11', ' became']
+['fixed it, and was rewarded with a ', '_2', '.   The ', '_0', ' and ', '_11', ' became']
+['fixed it, and was rewarded with a ', '_2', '.   The ', '_0', ' and ', '_0', ' became']
+['best friends and lived happily ever after in the ', '_0', '.']
+[32mpassed this testcase[0m
+**************************************************
+shuffle classes in random story
+['_magiccreature', '_0', '_magiccreature', '_0', '_2', '_food', '_0', '_said', '_said', '_8', '_0', '_greeting', '_greeting', '_thing', '_thing', '_11', '_8', '_11', '_12', '_0', '_2', '_5', '_2', '_5', '_0', '_greeting', '_11', '_14', '_12', '_12', '_thing', '_0', '_12', '_11', '_12', '_0', '_5', '_0', '_11', '_8']
+defaultdict(<class 'list'>, {'_magiccreature': ['unicorn', 'gnome'], '_food': ['gyro'], '_said': ['roared', 'squeaked'], '_greeting': ['Whhhasssupp', 'Hello', 'Whhhasssupp'], '_thing': ['cup of tea', 'cup of tea', 'flaming whip']})
+{'_0': 'unicorn', '_2': 'gnome', '_5': 'gyro', '_7': 'roared', '_8': 'squeaked', '_11': 'Whhhasssupp', '_12': 'Hello', '_13': 'cup of tea', '_14': 'cup of tea', '_25': 'Whhhasssupp', '_30': 'flaming whip'}
+['Once upon a time there was a ', '_magiccreature', '.  The ', '_0', ' lived in a very scary ', '_magiccreature', '.']
+['One day, the ', '_0', ' left his ', '_2', ' and went in search of a ', '_food', '.']
+['The ', '_0', ' wandered for ', '_said', ' and finally reached a ', '_said', '.']
+['In that ', '_8', ' the ', '_0', ' encountered a ', '_greeting', ' with a ', '_greeting', '.']
+['', '_thing', '! ', '_thing', ' the ', '_11', '.  What brings you to my ', '_8', ', the ', '_11', ' asked']
+['waving his ', '_12', ' towards the ', '_0', '.']
+['I left my ', '_2', ' in search of a ', '_5', ' because I was hungry and my ', '_2', ' is']
+['quite a scary place.  Do you have any ', '_5', ' here the ', '_0', ' ', '_greeting', '?']
+['Why it just so happens that I do have one the ', '_11', ' ', '_14', '.  However,']
+['I will only share it with you if you help me fix my ', '_12', ', which']
+['is not quite working right at the moment.   Oh ', '_12', ' repair ', '_thing']
+['the ', '_0', '?  Why that is my area of expertise.  Let me take a look']
+['at your ', '_12', '.  The ', '_11', ' handed his ', '_12', ' to the ', '_0', ', who promptly']
+['fixed it, and was rewarded with a ', '_5', '.   The ', '_0', ' and ', '_11', ' became']
+['best friends and lived happily ever after in the ', '_8', '.']
+['The end.']
+[32mpassed this testcase[0m
+**************************************************
+running with random items files in random story
+storyuMwMTznF4d9gj7MlRTJxRqjd6TPOk0aZ.txt
+['newgeneratedrsa', 'newgeneratedrsb', 'newgeneratedrsc', 'newgeneratedrsd']
+['_newgeneratedrsb', '_0', '_newgeneratedrsb', '_0', '_2', '_newgeneratedrsb', '_0', '_newgeneratedrsc', '_newgeneratedrsc', '_8', '_0', '_newgeneratedrsa', '_newgeneratedrsa', '_newgeneratedrsc', '_newgeneratedrsc', '_11', '_8', '_11', '_12', '_0', '_2', '_5', '_2', '_5', '_0', '_newgeneratedrsb', '_11', '_14', '_12', '_12', '_newgeneratedrsa', '_0', '_12', '_11', '_12', '_0', '_5', '_0', '_11', '_8']
+defaultdict(<class 'list'>, {'_newgeneratedrsb': ['maRo', '0aYZ', '0aYZ', '0aYZ'], '_newgeneratedrsc': ['b2R3dquz', 'Kgl3LNi2LD', 'b2R3dquz', 'b2R3dquz'], '_newgeneratedrsa': ['VZjDE1Jy', 'p5N8kMpqng', 'VZjDE1Jy']})
+{'_0': 'maRo', '_2': '0aYZ', '_5': '0aYZ', '_7': 'b2R3dquz', '_8': 'Kgl3LNi2LD', '_11': 'VZjDE1Jy', '_12': 'p5N8kMpqng', '_13': 'b2R3dquz', '_14': 'b2R3dquz', '_25': '0aYZ', '_30': 'VZjDE1Jy'}
+['Once upon a time there was a ', '_newgeneratedrsb', '.  The ', '_0', ' lived in a very scary ', '_newgeneratedrsb', '.']
+['One day, the ', '_0', ' left his ', '_2', ' and went in search of a ', '_newgeneratedrsb', '.']
+['The ', '_0', ' wandered for ', '_newgeneratedrsc', ' and finally reached a ', '_newgeneratedrsc', '.']
+['In that ', '_8', ' the ', '_0', ' encountered a ', '_newgeneratedrsa', ' with a ', '_newgeneratedrsa', '.']
+['', '_newgeneratedrsc', '! ', '_newgeneratedrsc', ' the ', '_11', '.  What brings you to my ', '_8', ', the ', '_11', ' asked']
+['waving his ', '_12', ' towards the ', '_0', '.']
+['I left my ', '_2', ' in search of a ', '_5', ' because I was hungry and my ', '_2', ' is']
+['quite a scary place.  Do you have any ', '_5', ' here the ', '_0', ' ', '_newgeneratedrsb', '?']
+['Why it just so happens that I do have one the ', '_11', ' ', '_14', '.  However,']
+['I will only share it with you if you help me fix my ', '_12', ', which']
+['is not quite working right at the moment.   Oh ', '_12', ' repair ', '_newgeneratedrsa']
+['the ', '_0', '?  Why that is my area of expertise.  Let me take a look']
+['at your ', '_12', '.  The ', '_11', ' handed his ', '_12', ' to the ', '_0', ', who promptly']
+['fixed it, and was rewarded with a ', '_5', '.   The ', '_0', ' and ', '_11', ' became']
+['best friends and lived happily ever after in the ', '_8', '.']
+['The end.']
+[32mpassed this testcase[0m
+[32msuccessfully passed all 4 test cases[0m
+Overall Grade: PASSED

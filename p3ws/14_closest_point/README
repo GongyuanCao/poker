@@ -1,0 +1,25 @@
+Previously, we worked through the first 4 steps for the "closest point" problem---given
+a set S and a point P, find the member of S which is closest to P. Now you
+are ready to turn this into code.
+
+You already have a Point class from a previous assignment, which you will use for
+this assignment.  As you have done before, you will want to symlink point.py
+from assignment 12:
+
+  ln -s ../12_point/point.py  ./
+
+You will also need to import the Point class, as you did in the "circle" assignment.
+
+In a file called cp.py, you should write the function:
+
+closestPoint(s,p)
+
+where
+  s is a set of Points
+and
+  p is a Point
+such that this function returns the element of s closest to p.
+
+You should also write test cases for your function to convince yourself
+that it is correct.
+

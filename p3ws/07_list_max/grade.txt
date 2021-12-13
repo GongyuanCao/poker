@@ -1,0 +1,32 @@
+Grading at 12/10/2020:18:54:12.919174
+For commit ID 420a166d0696cf79465f7a43e0a0289ca6ff2cf0
+test case 1
+listMax([77, 33, 19, 99, 42, 6, 27, 4	listMax([77, 33, 19, 99, 42, 6, 27, 4
+listMax([-3, -42, -99, -1000, -999, -	listMax([-3, -42, -99, -1000, -999, -
+listMax([425, 59, -3, 77, 0, 36]) is 	listMax([425, 59, -3, 77, 0, 36]) is 
+listMax(None) is None			listMax(None) is None
+listMax([]) is None			listMax([]) is None
+Your file matched the expected output
+
+test case 2
+doing test_main with 0, 0, 0		doing test_main with 0, 0, 0
+listMax([]) is None			listMax([]) is None
+Your file matched the expected output
+
+test case 3
+doing test_main with 1, 10, 10		doing test_main with 1, 10, 10
+listMax([9]) is 9			listMax([9]) is 9
+Your file matched the expected output
+
+test case 4
+doing test_main with 100, 1000, 1000	doing test_main with 100, 1000, 1000
+listMax([796, 439, 685, 778, 101, 403	listMax([796, 439, 685, 778, 101, 403
+Your file matched the expected output
+
+test case 5
+doing test_main with 5000, 50000, 500	doing test_main with 5000, 50000, 500
+listMax([30107, 3398, 12027, 27126, 3	listMax([30107, 3398, 12027, 27126, 3
+Your file matched the expected output
+
+
+Overall Grade: A

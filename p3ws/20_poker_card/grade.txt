@@ -1,0 +1,28 @@
+Grading at 12/20/2020:23:00:27.562844
+For commit ID 639c96b922bb706f48cc4e90784c868cddb45288
+
+********************************
+docstring
+Your file matched the expected output
+
+********************************
+test_str_repr
+Your file matched the expected output
+
+********************************
+test_constructor
+Your file matched the expected output
+
+********************************
+test_invalid
+Your file matched the expected output
+
+********************************
+test_eq
+Your file matched the expected output
+
+********************************
+test_card_from_num
+Your file matched the expected output
+
+Overall Grade: PASSED

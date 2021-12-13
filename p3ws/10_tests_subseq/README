@@ -1,0 +1,24 @@
+For this assignment, you will be writing test cases for your next
+assignment. The instructions for that assignment can be found in
+next-README, which you should use to figure out how to test the
+program you will be writing, but you should NOT write the program
+until you have passed this testing assignment. 
+
+As with the match5 assignment, one correct and several broken
+implementations can be found in 
+  /usr/local/p3ws/subseq.
+
+These are provided as bytecode, .pyc files, and you should write a
+program (in test-subseq.py) whose main function tests the maxSeq
+function. To do this, assume you will have a file "subseq.pyc" (which
+the run_all.sh script will create for you), and import maxSeq:
+  from subseq import maxSeq
+Also, indicate a failure case by exiting failure. To do this, import
+sys, and use the line
+  sys.exit(1)
+to indicate failure and exit.
+
+Think about a handy way to abstract the testing into a function.
+
+The script run_all.sh will test your test-subseq.py with all of the
+implementations. 

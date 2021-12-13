@@ -1,0 +1,519 @@
+Grading at 12/10/2020:18:31:36.633714
+For commit ID 4b26f208cd76c4386b44defd79e9b774abdcfd83
+Testcase 1: start: 327, 21345.00 working: 489, 1000.00, 0.0037500 retired: 384, -4000.00, 0.0008333
+  Your file matched the expected output
+Testcase 2: start: 240,     0.00 working: 597, 1234.00, 0.0078125 retired: 216, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 3: start: 240,     0.00 working: 597, 1234.00, 0.0078125 retired: 397, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 4: start: 240,     0.00 working: 597, 1234.00, 0.0078125 retired: 215, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 5: start: 240,     0.00 working: 597, 1234.00, 0.0078125 retired: 399, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 6: start: 240,     0.00 working: 597, 1234.00, 0.0078125 retired: 231, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 7: start: 240,     0.00 working: 597, 1234.00, 0.0078125 retired: 385, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 8: start: 240,     0.00 working: 597, 1234.00, 0.0078125 retired: 214, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 9: start: 240,     0.00 working: 597, 1234.00, 0.0078125 retired: 403, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 10: start: 240,     0.00 working: 596, 1234.00, 0.0078125 retired: 213, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 11: start: 240,     0.00 working: 596, 1234.00, 0.0078125 retired: 380, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 12: start: 240,     0.00 working: 596, 1234.00, 0.0078125 retired: 209, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 13: start: 240,     0.00 working: 596, 1234.00, 0.0078125 retired: 370, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 14: start: 240,     0.00 working: 596, 1234.00, 0.0078125 retired: 206, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 15: start: 240,     0.00 working: 596, 1234.00, 0.0078125 retired: 387, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 16: start: 240,     0.00 working: 596, 1234.00, 0.0078125 retired: 210, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 17: start: 240,     0.00 working: 596, 1234.00, 0.0078125 retired: 379, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 18: start: 240,     0.00 working: 597, 1234.00, 0.0039062 retired: 220, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 19: start: 240,     0.00 working: 597, 1234.00, 0.0039062 retired: 396, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 20: start: 240,     0.00 working: 597, 1234.00, 0.0039062 retired: 208, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 21: start: 240,     0.00 working: 597, 1234.00, 0.0039062 retired: 389, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 22: start: 240,     0.00 working: 597, 1234.00, 0.0039062 retired: 218, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 23: start: 240,     0.00 working: 597, 1234.00, 0.0039062 retired: 397, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 24: start: 240,     0.00 working: 597, 1234.00, 0.0039062 retired: 229, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 25: start: 240,     0.00 working: 597, 1234.00, 0.0039062 retired: 384, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 26: start: 240,     0.00 working: 588, 1234.00, 0.0039062 retired: 212, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 27: start: 240,     0.00 working: 588, 1234.00, 0.0039062 retired: 387, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 28: start: 240,     0.00 working: 588, 1234.00, 0.0039062 retired: 206, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 29: start: 240,     0.00 working: 588, 1234.00, 0.0039062 retired: 398, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 30: start: 240,     0.00 working: 588, 1234.00, 0.0039062 retired: 224, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 31: start: 240,     0.00 working: 588, 1234.00, 0.0039062 retired: 392, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 32: start: 240,     0.00 working: 588, 1234.00, 0.0039062 retired: 232, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 33: start: 240,     0.00 working: 588, 1234.00, 0.0039062 retired: 391, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 34: start: 240,     0.00 working: 597, 3353.00, 0.0078125 retired: 216, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 35: start: 240,     0.00 working: 597, 3353.00, 0.0078125 retired: 387, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 36: start: 240,     0.00 working: 597, 3353.00, 0.0078125 retired: 232, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 37: start: 240,     0.00 working: 597, 3353.00, 0.0078125 retired: 408, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 38: start: 240,     0.00 working: 597, 3353.00, 0.0078125 retired: 225, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 39: start: 240,     0.00 working: 597, 3353.00, 0.0078125 retired: 400, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 40: start: 240,     0.00 working: 597, 3353.00, 0.0078125 retired: 210, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 41: start: 240,     0.00 working: 597, 3353.00, 0.0078125 retired: 391, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 42: start: 240,     0.00 working: 596, 3353.00, 0.0078125 retired: 206, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 43: start: 240,     0.00 working: 596, 3353.00, 0.0078125 retired: 375, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 44: start: 240,     0.00 working: 596, 3353.00, 0.0078125 retired: 217, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 45: start: 240,     0.00 working: 596, 3353.00, 0.0078125 retired: 383, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 46: start: 240,     0.00 working: 596, 3353.00, 0.0078125 retired: 212, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 47: start: 240,     0.00 working: 596, 3353.00, 0.0078125 retired: 385, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 48: start: 240,     0.00 working: 596, 3353.00, 0.0078125 retired: 222, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 49: start: 240,     0.00 working: 596, 3353.00, 0.0078125 retired: 380, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 50: start: 240,     0.00 working: 597, 3353.00, 0.0039062 retired: 214, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 51: start: 240,     0.00 working: 597, 3353.00, 0.0039062 retired: 392, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 52: start: 240,     0.00 working: 597, 3353.00, 0.0039062 retired: 214, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 53: start: 240,     0.00 working: 597, 3353.00, 0.0039062 retired: 371, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 54: start: 240,     0.00 working: 597, 3353.00, 0.0039062 retired: 231, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 55: start: 240,     0.00 working: 597, 3353.00, 0.0039062 retired: 373, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 56: start: 240,     0.00 working: 597, 3353.00, 0.0039062 retired: 207, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 57: start: 240,     0.00 working: 597, 3353.00, 0.0039062 retired: 394, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 58: start: 240,     0.00 working: 602, 3353.00, 0.0039062 retired: 210, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 59: start: 240,     0.00 working: 602, 3353.00, 0.0039062 retired: 370, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 60: start: 240,     0.00 working: 602, 3353.00, 0.0039062 retired: 218, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 61: start: 240,     0.00 working: 602, 3353.00, 0.0039062 retired: 393, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 62: start: 240,     0.00 working: 602, 3353.00, 0.0039062 retired: 214, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 63: start: 240,     0.00 working: 602, 3353.00, 0.0039062 retired: 396, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 64: start: 240,     0.00 working: 602, 3353.00, 0.0039062 retired: 209, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 65: start: 240,     0.00 working: 602, 3353.00, 0.0039062 retired: 373, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 66: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 207, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 67: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 376, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 68: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 221, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 69: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 390, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 70: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 229, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 71: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 406, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 72: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 214, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 73: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 395, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 74: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 218, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 75: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 392, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 76: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 212, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 77: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 402, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 78: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 232, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 79: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 388, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 80: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 225, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 81: start: 240, 15426.54 working: 597, 1234.00, 0.0078125 retired: 395, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 82: start: 240, 15426.54 working: 597, 1234.00, 0.0039062 retired: 226, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 83: start: 240, 15426.54 working: 597, 1234.00, 0.0039062 retired: 378, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 84: start: 240, 15426.54 working: 597, 1234.00, 0.0039062 retired: 209, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 85: start: 240, 15426.54 working: 597, 1234.00, 0.0039062 retired: 406, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 86: start: 240, 15426.54 working: 597, 1234.00, 0.0039062 retired: 223, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 87: start: 240, 15426.54 working: 597, 1234.00, 0.0039062 retired: 402, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 88: start: 240, 15426.54 working: 597, 1234.00, 0.0039062 retired: 222, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 89: start: 240, 15426.54 working: 597, 1234.00, 0.0039062 retired: 393, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 90: start: 240, 15426.54 working: 588, 1234.00, 0.0039062 retired: 224, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 91: start: 240, 15426.54 working: 588, 1234.00, 0.0039062 retired: 380, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 92: start: 240, 15426.54 working: 588, 1234.00, 0.0039062 retired: 233, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 93: start: 240, 15426.54 working: 588, 1234.00, 0.0039062 retired: 380, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 94: start: 240, 15426.54 working: 588, 1234.00, 0.0039062 retired: 208, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 95: start: 240, 15426.54 working: 588, 1234.00, 0.0039062 retired: 387, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 96: start: 240, 15426.54 working: 588, 1234.00, 0.0039062 retired: 216, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 97: start: 240, 15426.54 working: 588, 1234.00, 0.0039062 retired: 387, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 98: start: 240, 15426.54 working: 597, 2389.00, 0.0078125 retired: 205, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 99: start: 240, 15426.54 working: 597, 2389.00, 0.0078125 retired: 388, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 100: start: 240, 15426.54 working: 597, 2389.00, 0.0078125 retired: 230, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 101: start: 240, 15426.54 working: 597, 2389.00, 0.0078125 retired: 409, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 102: start: 240, 15426.54 working: 597, 2389.00, 0.0078125 retired: 232, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 103: start: 240, 15426.54 working: 597, 2389.00, 0.0078125 retired: 400, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 104: start: 240, 15426.54 working: 597, 2389.00, 0.0078125 retired: 226, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 105: start: 240, 15426.54 working: 597, 2389.00, 0.0078125 retired: 407, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 106: start: 240, 15426.54 working: 604, 2389.00, 0.0078125 retired: 223, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 107: start: 240, 15426.54 working: 604, 2389.00, 0.0078125 retired: 396, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 108: start: 240, 15426.54 working: 604, 2389.00, 0.0078125 retired: 216, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 109: start: 240, 15426.54 working: 604, 2389.00, 0.0078125 retired: 394, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 110: start: 240, 15426.54 working: 604, 2389.00, 0.0078125 retired: 228, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 111: start: 240, 15426.54 working: 604, 2389.00, 0.0078125 retired: 385, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 112: start: 240, 15426.54 working: 604, 2389.00, 0.0078125 retired: 225, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 113: start: 240, 15426.54 working: 604, 2389.00, 0.0078125 retired: 401, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 114: start: 240, 15426.54 working: 597, 2389.00, 0.0039062 retired: 209, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 115: start: 240, 15426.54 working: 597, 2389.00, 0.0039062 retired: 375, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 116: start: 240, 15426.54 working: 597, 2389.00, 0.0039062 retired: 222, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 117: start: 240, 15426.54 working: 597, 2389.00, 0.0039062 retired: 384, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 118: start: 240, 15426.54 working: 597, 2389.00, 0.0039062 retired: 213, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 119: start: 240, 15426.54 working: 597, 2389.00, 0.0039062 retired: 393, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 120: start: 240, 15426.54 working: 597, 2389.00, 0.0039062 retired: 221, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 121: start: 240, 15426.54 working: 597, 2389.00, 0.0039062 retired: 377, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 122: start: 240, 15426.54 working: 602, 2389.00, 0.0039062 retired: 204, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 123: start: 240, 15426.54 working: 602, 2389.00, 0.0039062 retired: 404, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 124: start: 240, 15426.54 working: 602, 2389.00, 0.0039062 retired: 209, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 125: start: 240, 15426.54 working: 602, 2389.00, 0.0039062 retired: 384, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 126: start: 240, 15426.54 working: 602, 2389.00, 0.0039062 retired: 215, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 127: start: 240, 15426.54 working: 602, 2389.00, 0.0039062 retired: 387, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 128: start: 240, 15426.54 working: 602, 2389.00, 0.0039062 retired: 211, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 129: start: 240, 15426.54 working: 602, 2389.00, 0.0039062 retired: 390, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 130: start: 345,     0.00 working: 597, 1234.00, 0.0078125 retired: 221, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 131: start: 345,     0.00 working: 597, 1234.00, 0.0078125 retired: 403, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 132: start: 345,     0.00 working: 597, 1234.00, 0.0078125 retired: 207, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 133: start: 345,     0.00 working: 597, 1234.00, 0.0078125 retired: 408, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 134: start: 345,     0.00 working: 597, 1234.00, 0.0078125 retired: 233, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 135: start: 345,     0.00 working: 597, 1234.00, 0.0078125 retired: 399, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 136: start: 345,     0.00 working: 597, 1234.00, 0.0078125 retired: 230, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 137: start: 345,     0.00 working: 597, 1234.00, 0.0078125 retired: 375, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 138: start: 345,     0.00 working: 613, 1234.00, 0.0078125 retired: 214, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 139: start: 345,     0.00 working: 613, 1234.00, 0.0078125 retired: 377, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 140: start: 345,     0.00 working: 613, 1234.00, 0.0078125 retired: 204, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 141: start: 345,     0.00 working: 613, 1234.00, 0.0078125 retired: 408, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 142: start: 345,     0.00 working: 613, 1234.00, 0.0078125 retired: 219, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 143: start: 345,     0.00 working: 613, 1234.00, 0.0078125 retired: 391, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 144: start: 345,     0.00 working: 613, 1234.00, 0.0078125 retired: 220, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 145: start: 345,     0.00 working: 613, 1234.00, 0.0078125 retired: 409, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 146: start: 345,     0.00 working: 597, 1234.00, 0.0039062 retired: 210, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 147: start: 345,     0.00 working: 597, 1234.00, 0.0039062 retired: 376, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 148: start: 345,     0.00 working: 597, 1234.00, 0.0039062 retired: 224, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 149: start: 345,     0.00 working: 597, 1234.00, 0.0039062 retired: 383, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 150: start: 345,     0.00 working: 597, 1234.00, 0.0039062 retired: 229, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 151: start: 345,     0.00 working: 597, 1234.00, 0.0039062 retired: 409, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 152: start: 345,     0.00 working: 597, 1234.00, 0.0039062 retired: 224, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 153: start: 345,     0.00 working: 597, 1234.00, 0.0039062 retired: 400, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 154: start: 345,     0.00 working: 613, 1234.00, 0.0039062 retired: 225, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 155: start: 345,     0.00 working: 613, 1234.00, 0.0039062 retired: 405, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 156: start: 345,     0.00 working: 613, 1234.00, 0.0039062 retired: 214, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 157: start: 345,     0.00 working: 613, 1234.00, 0.0039062 retired: 371, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 158: start: 345,     0.00 working: 613, 1234.00, 0.0039062 retired: 215, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 159: start: 345,     0.00 working: 613, 1234.00, 0.0039062 retired: 407, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 160: start: 345,     0.00 working: 613, 1234.00, 0.0039062 retired: 220, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 161: start: 345,     0.00 working: 613, 1234.00, 0.0039062 retired: 373, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 162: start: 345,     0.00 working: 597, 2374.00, 0.0078125 retired: 221, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 163: start: 345,     0.00 working: 597, 2374.00, 0.0078125 retired: 392, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 164: start: 345,     0.00 working: 597, 2374.00, 0.0078125 retired: 208, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 165: start: 345,     0.00 working: 597, 2374.00, 0.0078125 retired: 400, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 166: start: 345,     0.00 working: 597, 2374.00, 0.0078125 retired: 208, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 167: start: 345,     0.00 working: 597, 2374.00, 0.0078125 retired: 377, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 168: start: 345,     0.00 working: 597, 2374.00, 0.0078125 retired: 226, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 169: start: 345,     0.00 working: 597, 2374.00, 0.0078125 retired: 382, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 170: start: 345,     0.00 working: 592, 2374.00, 0.0078125 retired: 233, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 171: start: 345,     0.00 working: 592, 2374.00, 0.0078125 retired: 397, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 172: start: 345,     0.00 working: 592, 2374.00, 0.0078125 retired: 211, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 173: start: 345,     0.00 working: 592, 2374.00, 0.0078125 retired: 400, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 174: start: 345,     0.00 working: 592, 2374.00, 0.0078125 retired: 207, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 175: start: 345,     0.00 working: 592, 2374.00, 0.0078125 retired: 399, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 176: start: 345,     0.00 working: 592, 2374.00, 0.0078125 retired: 213, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 177: start: 345,     0.00 working: 592, 2374.00, 0.0078125 retired: 371, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 178: start: 345,     0.00 working: 597, 2374.00, 0.0039062 retired: 226, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 179: start: 345,     0.00 working: 597, 2374.00, 0.0039062 retired: 395, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 180: start: 345,     0.00 working: 597, 2374.00, 0.0039062 retired: 223, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 181: start: 345,     0.00 working: 597, 2374.00, 0.0039062 retired: 388, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 182: start: 345,     0.00 working: 597, 2374.00, 0.0039062 retired: 220, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 183: start: 345,     0.00 working: 597, 2374.00, 0.0039062 retired: 388, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 184: start: 345,     0.00 working: 597, 2374.00, 0.0039062 retired: 232, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 185: start: 345,     0.00 working: 597, 2374.00, 0.0039062 retired: 404, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 186: start: 345,     0.00 working: 599, 2374.00, 0.0039062 retired: 225, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 187: start: 345,     0.00 working: 599, 2374.00, 0.0039062 retired: 377, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 188: start: 345,     0.00 working: 599, 2374.00, 0.0039062 retired: 217, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 189: start: 345,     0.00 working: 599, 2374.00, 0.0039062 retired: 383, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 190: start: 345,     0.00 working: 599, 2374.00, 0.0039062 retired: 232, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 191: start: 345,     0.00 working: 599, 2374.00, 0.0039062 retired: 404, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 192: start: 345,     0.00 working: 599, 2374.00, 0.0039062 retired: 219, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 193: start: 345,     0.00 working: 599, 2374.00, 0.0039062 retired: 408, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 194: start: 345,  6965.45 working: 597, 1234.00, 0.0078125 retired: 207, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 195: start: 345,  6965.45 working: 597, 1234.00, 0.0078125 retired: 374, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 196: start: 345,  6965.45 working: 597, 1234.00, 0.0078125 retired: 211, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 197: start: 345,  6965.45 working: 597, 1234.00, 0.0078125 retired: 405, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 198: start: 345,  6965.45 working: 597, 1234.00, 0.0078125 retired: 205, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 199: start: 345,  6965.45 working: 597, 1234.00, 0.0078125 retired: 409, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 200: start: 345,  6965.45 working: 597, 1234.00, 0.0078125 retired: 224, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 201: start: 345,  6965.45 working: 597, 1234.00, 0.0078125 retired: 374, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 202: start: 345,  6965.45 working: 608, 1234.00, 0.0078125 retired: 229, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 203: start: 345,  6965.45 working: 608, 1234.00, 0.0078125 retired: 380, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 204: start: 345,  6965.45 working: 608, 1234.00, 0.0078125 retired: 217, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 205: start: 345,  6965.45 working: 608, 1234.00, 0.0078125 retired: 386, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 206: start: 345,  6965.45 working: 608, 1234.00, 0.0078125 retired: 217, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 207: start: 345,  6965.45 working: 608, 1234.00, 0.0078125 retired: 386, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 208: start: 345,  6965.45 working: 608, 1234.00, 0.0078125 retired: 214, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 209: start: 345,  6965.45 working: 608, 1234.00, 0.0078125 retired: 386, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 210: start: 345,  6965.45 working: 597, 1234.00, 0.0039062 retired: 233, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 211: start: 345,  6965.45 working: 597, 1234.00, 0.0039062 retired: 380, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 212: start: 345,  6965.45 working: 597, 1234.00, 0.0039062 retired: 210, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 213: start: 345,  6965.45 working: 597, 1234.00, 0.0039062 retired: 375, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 214: start: 345,  6965.45 working: 597, 1234.00, 0.0039062 retired: 216, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 215: start: 345,  6965.45 working: 597, 1234.00, 0.0039062 retired: 378, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 216: start: 345,  6965.45 working: 597, 1234.00, 0.0039062 retired: 204, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 217: start: 345,  6965.45 working: 597, 1234.00, 0.0039062 retired: 396, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 218: start: 345,  6965.45 working: 609, 1234.00, 0.0039062 retired: 227, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 219: start: 345,  6965.45 working: 609, 1234.00, 0.0039062 retired: 394, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 220: start: 345,  6965.45 working: 609, 1234.00, 0.0039062 retired: 223, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 221: start: 345,  6965.45 working: 609, 1234.00, 0.0039062 retired: 403, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 222: start: 345,  6965.45 working: 609, 1234.00, 0.0039062 retired: 232, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 223: start: 345,  6965.45 working: 609, 1234.00, 0.0039062 retired: 374, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 224: start: 345,  6965.45 working: 609, 1234.00, 0.0039062 retired: 204, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 225: start: 345,  6965.45 working: 609, 1234.00, 0.0039062 retired: 392, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 226: start: 345,  6965.45 working: 597, 2467.00, 0.0078125 retired: 208, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 227: start: 345,  6965.45 working: 597, 2467.00, 0.0078125 retired: 403, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 228: start: 345,  6965.45 working: 597, 2467.00, 0.0078125 retired: 224, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 229: start: 345,  6965.45 working: 597, 2467.00, 0.0078125 retired: 396, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 230: start: 345,  6965.45 working: 597, 2467.00, 0.0078125 retired: 206, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 231: start: 345,  6965.45 working: 597, 2467.00, 0.0078125 retired: 387, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 232: start: 345,  6965.45 working: 597, 2467.00, 0.0078125 retired: 210, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 233: start: 345,  6965.45 working: 597, 2467.00, 0.0078125 retired: 377, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 234: start: 345,  6965.45 working: 601, 2467.00, 0.0078125 retired: 220, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 235: start: 345,  6965.45 working: 601, 2467.00, 0.0078125 retired: 374, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 236: start: 345,  6965.45 working: 601, 2467.00, 0.0078125 retired: 225, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 237: start: 345,  6965.45 working: 601, 2467.00, 0.0078125 retired: 377, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 238: start: 345,  6965.45 working: 601, 2467.00, 0.0078125 retired: 229, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 239: start: 345,  6965.45 working: 601, 2467.00, 0.0078125 retired: 408, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 240: start: 345,  6965.45 working: 601, 2467.00, 0.0078125 retired: 224, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 241: start: 345,  6965.45 working: 601, 2467.00, 0.0078125 retired: 404, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 242: start: 345,  6965.45 working: 597, 2467.00, 0.0039062 retired: 217, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 243: start: 345,  6965.45 working: 597, 2467.00, 0.0039062 retired: 407, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 244: start: 345,  6965.45 working: 597, 2467.00, 0.0039062 retired: 233, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 245: start: 345,  6965.45 working: 597, 2467.00, 0.0039062 retired: 390, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 246: start: 345,  6965.45 working: 597, 2467.00, 0.0039062 retired: 217, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 247: start: 345,  6965.45 working: 597, 2467.00, 0.0039062 retired: 397, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 248: start: 345,  6965.45 working: 597, 2467.00, 0.0039062 retired: 209, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 249: start: 345,  6965.45 working: 597, 2467.00, 0.0039062 retired: 402, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 250: start: 345,  6965.45 working: 601, 2467.00, 0.0039062 retired: 232, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 251: start: 345,  6965.45 working: 601, 2467.00, 0.0039062 retired: 381, -3567.00, 0.0039062
+  Your file matched the expected output
+Testcase 252: start: 345,  6965.45 working: 601, 2467.00, 0.0039062 retired: 226, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 253: start: 345,  6965.45 working: 601, 2467.00, 0.0039062 retired: 405, -3567.00, 0.0019531
+  Your file matched the expected output
+Testcase 254: start: 345,  6965.45 working: 601, 2467.00, 0.0039062 retired: 214, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 255: start: 345,  6965.45 working: 601, 2467.00, 0.0039062 retired: 393, -6534.00, 0.0039062
+  Your file matched the expected output
+Testcase 256: start: 345,  6965.45 working: 601, 2467.00, 0.0039062 retired: 233, -6534.00, 0.0019531
+  Your file matched the expected output
+Testcase 257: start: 345,  6965.45 working: 601, 2467.00, 0.0039062 retired: 379, -6534.00, 0.0019531
+  Your file matched the expected output
+Test cases passed: 257 / 257
+
+Overall Grade: PASSED

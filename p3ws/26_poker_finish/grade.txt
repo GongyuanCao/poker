@@ -1,0 +1,52 @@
+Grading at 01/06/2021:23:25:29.057243
+For commit ID 3d2a654ca737c4f5de996ef573d468c0c425a7b0
+ - Starting with some Texas Hold'em hands
+Test case 1: Running a simulation with 20000 draws for 2 hands...
+Hand 0 was within the expected range
+Hand 1 was within the expected range
+->Passed this test case
+Test case 2: Running a simulation with 25000 draws for 3 hands...
+Hand 0 was within the expected range
+Hand 1 was within the expected range
+Hand 2 was within the expected range
+->Passed this test case
+Test case 3: Running a simulation with 25000 draws for 3 hands...
+Hand 0 was within the expected range
+Hand 1 was within the expected range
+Hand 2 was within the expected range
+->Passed this test case
+Test case 4: Running a simulation with 25000 draws for 2 hands...
+Hand 0 was within the expected range
+Hand 1 was within the expected range
+->Passed this test case
+Test case 5: Running a simulation with 80000 draws for 4 hands...
+Hand 0 was within the expected range
+Hand 1 was within the expected range
+Hand 2 was within the expected range
+Hand 3 was within the expected range
+->Passed this test case
+Test case 6: Running a simulation with 30000 draws for 2 hands...
+Hand 0 was within the expected range
+Hand 1 was within the expected range
+->Passed this test case
+ - Next, few Seven Card Stud hands
+Test case 7: Running a simulation with 30000 draws for 2 hands...
+Hand 0 was within the expected range
+Hand 1 was within the expected range
+->Passed this test case
+Test case 8: Running a simulation with 40000 draws for 3 hands...
+Hand 0 was within the expected range
+Hand 1 was within the expected range
+Hand 2 was within the expected range
+->Passed this test case
+ - Then one from a completely made up poker variant
+Test case 9: Running a simulation with 50000 draws for 6 hands...
+Hand 0 was within the expected range
+Hand 1 was within the expected range
+Hand 2 was within the expected range
+Hand 3 was within the expected range
+Hand 4 was within the expected range
+Hand 5 was within the expected range
+->Passed this test case
+
+Overall Grade: PASSED

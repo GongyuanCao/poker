@@ -1,0 +1,40 @@
+Grading at 12/21/2020:02:02:21.732745
+For commit ID 421747c79fcb3dcd5421d2029116b04b5db5502c
+
+********************************
+docstring
+Your file matched the expected output
+
+********************************
+test_str_repr
+Your file matched the expected output
+
+********************************
+test_add_card
+Your file matched the expected output
+
+********************************
+test_placeholder_card
+Your file matched the expected output
+
+********************************
+test_shuffle
+Your file matched the expected output
+
+********************************
+test_assert_full
+Your file matched the expected output
+
+********************************
+test_draw
+Your file matched the expected output
+
+********************************
+test_sort
+Your file matched the expected output
+
+********************************
+test_build_remaining_deck
+Your file matched the expected output
+
+Overall Grade: PASSED

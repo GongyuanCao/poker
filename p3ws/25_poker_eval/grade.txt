@@ -1,0 +1,12 @@
+Grading at 01/06/2021:20:29:33.166822
+For commit ID a5da29fa7e7414b3c4d2b5b8350e0160ccd4a1e4
+
+********************************
+Testing evaluate_hand
+Your file matched the expected output
+
+********************************
+Testing compare_hands
+Your file matched the expected output
+
+Overall Grade: PASSED
